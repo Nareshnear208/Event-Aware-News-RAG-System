@@ -1,0 +1,10 @@
+# These files help avoid uploading unnecessary files.
+__pycache__
+.env
+venv
+venv/
+news_pro/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+*.log

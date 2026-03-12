@@ -1,0 +1,11 @@
+# Prevents copying unnecessary files into Docker image.
+.git
+.gitignore
+__pycache__
+*.pyc
+.env
+venv/
+news_pro/
+.ipynb
+.ipynb_checkpoints
+data/raw
